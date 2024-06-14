@@ -8,9 +8,4 @@ En este proyecto, aplicamos técnicas de machine learning, específicamente la r
 
 ## Descripción del Dataset:
 
-El dataset utilizado en este proyecto proviene de una empresa de telecomunicaciones y contiene información sobre clientes actuales y anteriores, junto con sus características y comportamientos de uso. Las principales características del dataset incluyen:
-
-Características del Cliente: Información demográfica como edad, género y ubicación.
-Información del Servicio: Tipo de servicio contratado, duración del contrato, y métodos de pago.
-Patrones de Uso: Datos sobre el uso de servicios específicos como llamadas internacionales, uso de internet, y servicios adicionales.
-Etiquetas de Churn: Indicador binario que señala si el cliente ha abandonado el servicio (1) o no (0).
+El dataset utilizado en este proyecto proviene de una empresa de telecomunicaciones y contiene información sobre clientes actuales y anteriores, junto con sus características y comportamientos de uso.
